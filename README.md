@@ -21,3 +21,5 @@ pip install nibabel numpy PyQt5 Pillow scipy pydicom
 This is a MPR viewer that views the DICOM series or NIFTI files in 3 views Axial,Sagittal,Coronal and oblique
 and it gives the user the option to go through the slices with a slider and the crosshair in the other 3 planes will move with it
 and ROI.
+
+![MPR Viewer Screenshot](images/screenshot.png)
